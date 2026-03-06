@@ -6,6 +6,13 @@ This project applies machine learning classification techniques to predict loan 
   
 ### Dataset Description  
 The dataset contains information about loan applicants, including:
+•	Loan_Id – Unique id for eaxh Loan Application
+
+•	Gender – M/F
+
+•	Marries-yes/no
+
+•	Dependents-How many people on famli depend on Applicant
 
 •	ApplicantIncome – Income of the applicann
 
@@ -56,33 +63,36 @@ The dataset contains information about loan applicants, including:
 
 •	      Random Forest
 
+•	      Extra Tree Classifier
+
+•	      XGB Classifier
+
+•	      Light GBM Classifier(LGBM)
+
+•	      CAT BOOST Classifier
+
 7.	Model Evaluation
 
 •	      Accuracy
 
-•	      Precision
-
-•	      Recall
-
-•	      F1 Score
+•	      Cross Valdation Score 
 
 •	      Confusion Matrix
 
 •	      Prediction
 
-8.	Technologies Used
+8 Hyper Parameter Tuning
+
+•	     Randomized Seach Cross Validation
+
+9.Technologies Used
 
 •	      Python
-
 •	      Pandas
-
 •	      NumPy
-
 •	      Matplotlib / Seaborn
-
-•	     Scikit-learn
-
-•	     Jupyter Notebook
+•	      Scikit-learn
+•	      Jupyter Notebook
   
 
 
