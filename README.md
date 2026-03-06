@@ -33,29 +33,29 @@ The dataset contains information about loan applicants, including:
 •	Loan_Status – Target variable (Approved / Not Approved)
   
 ### Project - Technical Details  
-1.	Data Collection
+**1.	Data Collection**
 
-2.	Data Cleaning
+**2.	Data Cleaning**
 
 •      Handling missing values
 
 •	     Removing inconsistencies
 
-3.	Exploratory Data Analysis (EDA)
+**3.	Exploratory Data Analysis (EDA)**
 
 •	      Distribution analysis
 
 •	      Correlation analysis
 
-4.	Feature Engineering
+**4.	Feature Engineering**
 
-5.	Data Preprocessing
+**5.	Data Preprocessing**
 
 •	      Encoding categorical variables
 
 •	      Feature scaling
 
-6.	Model Building
+**6.	Model Building**
 
 •	      Logistic Regression
 
@@ -71,7 +71,7 @@ The dataset contains information about loan applicants, including:
 
 •	      CAT BOOST Classifier
 
-7.	Model Evaluation
+**7.	Model Evaluation**
 
 •	      Accuracy
 
@@ -81,11 +81,11 @@ The dataset contains information about loan applicants, including:
 
 •	      Prediction
 
-8 Hyper Parameter Tuning
+**8 Hyper Parameter Tuning**
 
 •	     Randomized Seach Cross Validation
 
-9.Technologies Used
+**9.Technologies Used**
 
 •	      Python
 •	      Pandas
